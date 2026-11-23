@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Amirhosein90 Banner">
+  <img src="./banner.png" width="100%" alt="AMIRHOSEIN90 Cybersecurity Banner">
 </div>
-
-<br>
 
 
 
