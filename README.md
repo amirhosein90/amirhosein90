@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="Amirhosein90 Banner">
+</div>
+
+<br>
+
+
+
+
+
+
+
+
+
+
 👋 Hi, I'm Amirhosein
 
 💻 Computer Science Student | Aspiring Developer | Cybersecurity Enthusiast
